@@ -24,9 +24,8 @@ The dataset spans Indian start-ups from 2015 to 2021 and includes details about 
 - **Date**: Date of the investment.
 
 ### File Structure:
-- **`SMM750_RawatNikhil_code.ipynb`**: Jupyter notebook containing the code for data pre-processing, exploratory data analysis (EDA), and visualizations.
-- **`SMM750_RawatNikhil_code.pdf`**: PDF version of the code for easy viewing.
-- **`SMM750_RawatNikhil_DTVC_Report.pdf`**: Detailed report discussing the methodology, data insights, and strategic recommendations for start-ups.
+- **`Code.ipynb`**: Jupyter notebook containing the code for data pre-processing, exploratory data analysis (EDA), and visualizations.
+- **`Report.pdf`**: Detailed report discussing the methodology, data insights, and strategic recommendations for start-ups.
 - **`StartUp_2015-2019.zip`**: Compressed dataset containing start-up data from 2015-2019.
 - **`StartUp_2020-2021.zip`**: Compressed dataset containing start-up data from 2020-2021.
 - **`requirements.txt`**: Python dependencies required to run the analysis.
