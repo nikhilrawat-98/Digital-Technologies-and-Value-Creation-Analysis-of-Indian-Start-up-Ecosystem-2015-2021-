@@ -1,0 +1,2 @@
+# Digital-Technologies-and-Value-Creation-Analysis-of-Indian-Start-up-Ecosystem-2015-2021-
+ This project analyzes digital technologies and investment trends in the Indian start-up ecosystem, focusing on how digital transformation and innovation drive value creation. It explores trends in funding, sector preference, geographical impact and investment types, offering strategic insights for start-ups seeking funding and growth opportunities
